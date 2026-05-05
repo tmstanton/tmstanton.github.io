@@ -1,30 +1,28 @@
 ---
 layout: about
-image: /assets/img/cute_me_new.png
+image: /assets/img/tms.png
 description: >
-  Postdoctoral Researcher at UMass Amherst. I research quiescent galaxies and their evolution across cosmic time.
+  Postdoctoral Research Associate at the University of Edinburgh. I research the nebular and chemical properties of star-forming galaxies across cosmic time.
 hide_description: true
 redirect_from:
   - /download/
 ---
 
-<h1 style="color:rgb(242,99,152)"> About Me \(o_o)/ </h1>
+<h1 style="color:rgb(5,135,67)"> About Me \(o_o)/ </h1>
 
-I am currently a postdoctoral research associate at the University of Massachusetts 
-Amherst, working with Kate Whitaker & Francesco Valentino (at DAWN, Copenhagen) 
-on the star-formation histories of massive quiescent galaxies at cosmic noon. 
+I am currently a postdoctoral research associate at the Institute for Astronomy at
+the University of Edinburgh, working with Ross McLure on the chemical and nebular properties
+of star-forming galaxies in the high-redshift Universe, and the theoretical modelling of
+galaxy nebular properties with photoionization modelling codes.
 Prior to this position, I completed a PhD at the Institute for Astronomy, 
-University of Edinburgh, under the supervision of Ross McLure. 
-I studied size-mass relations, star-formation histories and quenching mechanisms 
-of quiescent galaxies at z ~ 1 using a range of data from the ESO Public 
-Spectroscopic Survey VANDELS, and the JWST PRIMER program. 
+University of Edinburgh, under the supervision of Fergus Cullen as part of the ERC/UKRI funded project 'ICE'.
 
-<h2 style="color:rgb(242,99,152)"> Outreach </h2>
+<h2 style="color:rgb(5,135,67)"> Outreach </h2>
 
-I'm currently involved in some outreach events at UMass and within the surrounding areas. Astronomy on Tap happens every third Tuesday of the month from September until May. Watch this space for updates on events near you! 
+I have been involved in some outreach events with the University of Edinburgh, and plan to provide public interest talks on extragalactic astronomy.
 
-<h2 style="color:rgb(242,99,152)"> Other Projects </h2>
+<h2 style="color:rgb(5,135,67)"> Other Projects </h2>
 
-I'm also involved in a few collaborations in the hopes that I can help to make the world a little bit better. See links below to find out and join if you're interested!
+I'm particularly interested in DEI initiatives around widening participation in Astronomy and Astrophysics.
 
 
