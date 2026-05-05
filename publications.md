@@ -1,4 +1,4 @@
-<h1 style="color:rgb(242,99,152)">Publications</h1>
+<h1 style="color:rgb(5,135,67)">Publications and Data</h1>
 
 I have published three lead-author papers into MNRAS, and have co-authored a number of papers which can be found at <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22Stanton%2C%20Thomas%20M%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"> this ADS link</a>.
 This page is in the process of being updated and not all links will have the required data. Please contact me if you require any data from the following publications.
