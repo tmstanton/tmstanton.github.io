@@ -20,30 +20,31 @@ This page is in the process of being updated and not all links will have the req
   </ol>
 
 <h2 style="color:rgb(5,135,67)">Co-author (Published)</h2>
+<ol>
+<li> Cullen, F. et al. (2023): The ultraviolet continuum slopes $\beta$ of galaxies at z $\simeq$ 8-16 from JWST and ground-based near-infrared imaging. (MNRAS 520 14) </li>
+<li> Hamadouche, M. et al., (2023): The connection between stellar mass, age, and quenching time-scale in massive quiescent galaxies at z $\simeq$ 1. (MNRAS 521 5400) </li>
+<li> Wofford, A. et al., (2023): Extreme broad He II emission at high and low redshifts: the dominant role of VMS in NGC 3125-A1 and CDFS131717. (MNRAS 523 3949) </li>
+<li> McLeod, D. et al., (2024): The galaxy UV luminosity function at z $\simeq$ 11 from a suite of public JWST ERS, ERO, and Cycle-1 programs. (MNRAS 527 4004) </li>
+<li> Begley, R. et al., (2024): Connecting the escape fraction of Lyman-alpha and Lyman-continuum photons in star-forming galaxies at z $\simeq$ 4-5. (MNRAS 527 4040) </li>
+<li> Cullen, F. et al., (2024): The ultraviolet continuum slopes of high-redshift galaxies: evidence for the emergence of dust-free stellar populations at $z > 10$. (MNRAS 531 997) </li>
+<li> Donnan, C. et al., (2024): JWST PRIMER: a new multifield determination of the evolving galaxy UV luminosity function at redshifts z $\simeq$ 9 - 15. (MNRAS 533 3222) </li>
+<li> Carnall, A. et al., (2024): The JWST EXCELS survey: too much, too young, too fast? Ultra-massive quiescent galaxies at 3 $<$ z $<$ 5. (MNRAS 534 235) </li>
+<li> Begley, R. et al., (2025): The evolution of [\textsc{O iii}]+H$\beta$ equivalent width from $z \simeq 3 - 8$: implications for the production and escape of ionizing photons during reionization (MNRAS 537 3245) </li>
+<li> Hamadouche, M. et al., (2025): JWST PRIMER: strong evidence for the environmental quenching of low-mass galaxies out to $z\simeq2$ (MNRAS 541 463) </li>
+<li> Arellano-C\'ordova, K. et al., (2024): The JWST EXCELS Survey: Understanding the chemical variations of CNO at $z\sim5$ (MNRAS 540 2991) </li>
+<li> Cullen, F. et al., (2025): The JWST EXCELS Survey: an extremely metal-poor galaxy at $z=8.271$ hosting an unusual population of massive stars (MNRAS 540 2176)</li>
+<li> Scholte, D. et al., (2025): The JWST EXCELS survey: The metallicity of [O{\sc iii}]4363 detected galaxies between $1.5 \leq z \leq 8$ with implications for strong line diagnostics and chemical evolution (MNRAS 540 1800) </li>
+<li> Taylor, A. et al., (2025): CAPERS-LRD-z9: A Gas Enshrouded Little Red Dot Hosting a Broad-line AGN at $z=9.288$ (ApJ 989 1 L7) </li>
+<li> Napolitano, L. et al., (2025): Ly$\alpha$ visibility from z = 4.5 to 11 in the UDS field: evidence for a high neutral hydrogen fraction and small ionized bubbles at $z\sim7$ (A\&A 708 A102) </li>
+<li> Llerena, M. et al. (2025): An equivalent width-selected sample of starbursting dwarf galaxies at z = 4 - 10: insights into their role in cosmic reionization (A\&A 708 A152) </li>
+<li> Donnan, C. et al., (2025): Very bright, very blue, and very red: JWST CAPERS analysis of highly luminous galaxies with extreme UV slopes at $z=10$ (ApJ 993 224) </li>
+<li> Begley, R. et al. (2026): The JWST EXCELS Survey: A spectroscopic investigation of the ionizing properties of star-forming galaxies (MNRAS 545 1 staf1995) </li>
+<li> Stevenson, S. D. et al. (2026): PRIMER \& JADES reveal an abundance of massive quiescent galaxies at $2 < z < 5$ (MNRAS 545 3 staf2087) </li>
+<li> Arellano-Córdova, K. Z. et al. (2026): A Self-Consistent Direct Method for Chemical Abundances in High-$z$ Galaxies with JWST (MNRAS 547 4 stag380) </li>
+<li> Barrufet, L. et al., (2025): Strength in Numbers: Red Galaxies Bolster the Cosmic Star Formation Rate Density at z $>$ 3 (in press, MNRAS, arxiv:2508.05740) </li>
+</ol>
 
-Cullen, F. et al. (2023): The ultraviolet continuum slopes $\beta$ of galaxies at z $\simeq$ 8-16 from JWST and ground-based near-infrared imaging. (MNRAS 520 14)
-Hamadouche, M. et al., (2023): The connection between stellar mass, age, and quenching time-scale in massive quiescent galaxies at z $\simeq$ 1. (MNRAS 521 5400)
-Wofford, A. et al., (2023): Extreme broad He II emission at high and low redshifts: the dominant role of VMS in NGC 3125-A1 and CDFS131717. (MNRAS 523 3949)
-McLeod, D. et al., (2024): The galaxy UV luminosity function at z $\simeq$ 11 from a suite of public JWST ERS, ERO, and Cycle-1 programs. (MNRAS 527 4004)
-Begley, R. et al., (2024): Connecting the escape fraction of Lyman-alpha and Lyman-continuum photons in star-forming galaxies at z $\simeq$ 4-5. (MNRAS 527 4040)
-Cullen, F. et al., (2024): The ultraviolet continuum slopes of high-redshift galaxies: evidence for the emergence of dust-free stellar populations at $z > 10$. (MNRAS 531 997)
-Donnan, C. et al., (2024): JWST PRIMER: a new multifield determination of the evolving galaxy UV luminosity function at redshifts z $\simeq$ 9 - 15. (MNRAS 533 3222)
-Carnall, A. et al., (2024): The JWST EXCELS survey: too much, too young, too fast? Ultra-massive quiescent galaxies at 3 $<$ z $<$ 5. (MNRAS 534 235)
-Begley, R. et al., (2025): The evolution of [\textsc{O iii}]+H$\beta$ equivalent width from $z \simeq 3 - 8$: implications for the production and escape of ionizing photons during reionization (MNRAS 537 3245).
-Hamadouche, M. et al., (2025): JWST PRIMER: strong evidence for the environmental quenching of low-mass galaxies out to $z\simeq2$ (MNRAS 541 463)
-Arellano-C\'ordova, K. et al., (2024): The JWST EXCELS Survey: Understanding the chemical variations of CNO at $z\sim5$ (MNRAS 540 2991)
-Cullen, F. et al., (2025): The JWST EXCELS Survey: an extremely metal-poor galaxy at $z=8.271$ hosting an unusual population of massive stars (MNRAS 540 2176)
-Scholte, D. et al., (2025): The JWST EXCELS survey: The metallicity of [O{\sc iii}]4363 detected galaxies between $1.5 \leq z \leq 8$ with implications for strong line diagnostics and chemical evolution (MNRAS 540 1800) 
-Taylor, A. et al., (2025): CAPERS-LRD-z9: A Gas Enshrouded Little Red Dot Hosting a Broad-line AGN at $z=9.288$ (ApJ 989 1 L7)
-Napolitano, L. et al., (2025): Ly$\alpha$ visibility from z = 4.5 to 11 in the UDS field: evidence for a high neutral hydrogen fraction and small ionized bubbles at $z\sim7$ (A\&A 708 A102)
-Llerena, M. et al. (2025): An equivalent width-selected sample of starbursting dwarf galaxies at z = 4 - 10: insights into their role in cosmic reionization (A\&A 708 A152)
-Donnan, C. et al., (2025): Very bright, very blue, and very red: JWST CAPERS analysis of highly luminous galaxies with extreme UV slopes at $z=10$ (ApJ 993 224)
-Begley, R. et al. (2026): The JWST EXCELS Survey: A spectroscopic investigation of the ionizing properties of star-forming galaxies (MNRAS 545 1 staf1995).
-Stevenson, S. D. et al. (2026): PRIMER \& JADES reveal an abundance of massive quiescent galaxies at $2 < z < 5$ (MNRAS 545 3 staf2087)
-Arellano-Córdova, K. Z. et al. (2026): A Self-Consistent Direct Method for Chemical Abundances in High-$z$ Galaxies with JWST (MNRAS 547 4 stag380)
-Barrufet, L. et al., (2025): Strength in Numbers: Red Galaxies Bolster the Cosmic Star Formation Rate Density at z $>$ 3 (in press, MNRAS, arxiv:2508.05740)
-
-<h2 style="color:rgb(5,135,67)">Co-author (Submitted)</h2>
+  <h2 style="color:rgb(5,135,67)">Co-author (Submitted)</h2>
 
 \item Foley, J. et al. (2025): The AURORA Survey: Constraining Chemical Enrichment Pathways at Cosmic Noon with Argon Abundances (submitted, ApJ, arixv: 2512.10130)
 Taylor, E. et al. (2026): The JWST EXCELS survey: Outflows in $1.5 < z < 5$ quiescent galaxies are likely relics from episodic AGN activity (submitted, arxiv: 2601.02269).
