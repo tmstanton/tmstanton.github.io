@@ -2,9 +2,9 @@
 
 <div class="research-grid">
 
-  <a href="/research/deepdive" class="research-card">
+  <a href="/research/excels" class="research-card">
     <img src="/assets/img/sfhs_website.png" alt="JWST DeepDive icon">
-    <h3>JWST DeepDive</h3>
+    <h3>JWST EXCELS</h3>
     <!-- <p>Star-formation histories and chemical abundances of massive quiescent galaxies at 3 &lt; *z* &lt; 4.</p> -->
   </a>
 
