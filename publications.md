@@ -16,9 +16,8 @@ This page is in the process of being updated and not all links will have the req
 
 2. S. Monty, A. L. Strom, **T. M. Stanton**, et al. *ChemZz I: comparing oxygen and iron abundance patterns in the Milky Way, the Local Group, and Cosmic Noon* (2025, <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.1443M/abstract"> MNRAS 542 1443 </a>)
 
-                </par>An extension of the NIRVANDELS results, combining them with KBSS and Milky Way galactic archaeological data to investigate galaxy evolution by connecting the local and high-redshift Universe.</par>
-                </par>All data can be found within the paper.</par>
-
+      <par>An extension of the NIRVANDELS results, combining them with KBSS and Milky Way galactic archaeological data to investigate galaxy evolution by connecting the local and high-redshift Universe.</par>
+      <par>All data can be found within the paper.</par>
 
 3. **T. M. Stanton**, F. Cullen, A. C. Carnall, et al. The *JWST* EXCELS survey: *tracing the chemical enrichment pathways of high-redshift star-forming galaxies with O, Ar, and Ne abundances* (2025, <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.1735S/abstract"> MNRAS 537 1735 </a>)
 
