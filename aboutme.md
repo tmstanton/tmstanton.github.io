@@ -8,7 +8,7 @@ redirect_from:
   - /download/
 ---
 
-<h1 style="color:rgb(5,135,67)"> About Me \(o_o)/ </h1>
+<h1 style="color:rgb(5,135,67)"> About Me </h1>
 
 I am currently a postdoctoral research associate at the Institute for Astronomy at
 the University of Edinburgh, working with Ross McLure on the chemical and nebular properties
