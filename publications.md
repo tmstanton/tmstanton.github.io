@@ -10,7 +10,7 @@ This page is in the process of being updated and not all links will have the req
       <par>In this work, we analysed a sample of 65 star-forming galaxies at 2 < z < 8, measuring the strong-line and direct method metallicities with an aim of investigating th evolution in the MZR and FMR.</par>
       <par>Data files for the following tables are below:</par>
       <ol>
-          <li> Table 1 (properties of the EXCELS strong line sample) </li>
+          <li> Table 2 (properties of the EXCELS strong line sample) </li>
           <li> Table B1 (updated EXCELS direct-method metallicities) </li>
       </ol>
 
@@ -23,7 +23,7 @@ This page is in the process of being updated and not all links will have the req
 
     <par>In this work, we analysed a sample of eight star-forming galaxies from the EXCELS survey, calculated their direct-method metallicities and Ne/O and Ar/O abundance patterns to investigate non-solar abundace patterns in the early universe.</par>
       <par>Data files for the following tables are below:</par>
-      <ol padding-left: 20em;>
+      <ol>
           <li> <a href="data/excels-aro-sample-fluxes.dat" download> Table 1 </a> (properties of the EXCELS Ar/Ne/O sample) </li>
           <li> <a href="data/excels-aro-sample-fluxes.dat" download> Table 3 </a> (temperatures, densities and abundance ratios) </li>
           <li> <a href="data/excels-aro-sample-fluxes.dat" download> Emission Line Fluxes </a> (uncorrected for dust) </li>
@@ -33,7 +33,7 @@ This page is in the process of being updated and not all links will have the req
 
   <par> In this work, we analysed a sample of 65 star-forming galaxies from the NIRVANDELS survey, calculated their oxygen and iron abundances to constrain the stellar and gas-phase MZRs, and placed a robust constraint on alpha-enhancement via the O/Fe ratio.</par>
   <par> Data files for the following tables are below:</p>
-  <ol padding-left: 20em;>
+  <ol>
       <li> <a href="data/excels-aro-sample-fluxes.dat" download> Table 2 </a> (properties of the NIRVANDELS sample) </li>
       <li> <a href="data/excels-aro-sample-fluxes.dat" download> Table 3 </a> (properties of the KMOS composites) </li>
       <li> <a href="data/excels-aro-sample-fluxes.dat" download> Table A1 </a> (alternative metallicities for the NIRVANDELS sample) </li>
@@ -65,11 +65,13 @@ This page is in the process of being updated and not all links will have the req
 </ol>
 
   <h2 style="color:rgb(5,135,67)">Co-author (Submitted)</h2>
-
-\item Foley, J. et al. (2025): The AURORA Survey: Constraining Chemical Enrichment Pathways at Cosmic Noon with Argon Abundances (submitted, ApJ, arixv: 2512.10130)
-Taylor, E. et al. (2026): The JWST EXCELS survey: Outflows in $1.5 < z < 5$ quiescent galaxies are likely relics from episodic AGN activity (submitted, arxiv: 2601.02269).
-Scholte, D. et al. (2026): Electron temperature relations and the direct N, O, Ne, S and Ar abundances of 49 959 star-forming galaxies in DESI Data Release 2 (submitted, MNRAS, arxiv: 2601.02463)
-Donnan, C. T. et al. (2026): Spectroscopic confirmation of a large and luminous galaxy with weak emission lines at $z = 13.53$ (in press, AAS, arxiv: 2601.11515)
-Leung, H.-H. et al. (2026): The JWST EXCELS survey: The ages and abundances of $3 < z < 5$ massive quiescent galaxies show that downsizing was already in place by $z\simeq4$ (submitted, MNRAS, arxiv:2602.05934)
-Pérez-González, P. G., et al. (2026): Little Red Dots: one observational tag, diverse spectroscopic flavors with distinct stellar and nuclear activity features (submitted, ApJ, arxiv:2602.20247)
-McLeod, D. J., et al. (2026): A search for the first galaxies across > 0.6 deg2 of JWST imaging: new evidence for a rapid decline in star-formation activity at z > 12 (submitted, MNRAS, arxiv:2604.16666)
+  
+<ol>
+<li> Foley, J. et al. (2025): The AURORA Survey: Constraining Chemical Enrichment Pathways at Cosmic Noon with Argon Abundances (submitted, ApJ, arixv: 2512.10130) </li>
+<li> Taylor, E. et al. (2026): The JWST EXCELS survey: Outflows in $1.5 < z < 5$ quiescent galaxies are likely relics from episodic AGN activity (submitted, arxiv: 2601.02269) </li>
+<li> Scholte, D. et al. (2026): Electron temperature relations and the direct N, O, Ne, S and Ar abundances of 49 959 star-forming galaxies in DESI Data Release 2 (submitted, MNRAS, arxiv: 2601.02463) </li>
+<li> Donnan, C. T. et al. (2026): Spectroscopic confirmation of a large and luminous galaxy with weak emission lines at $z = 13.53$ (in press, AAS, arxiv: 2601.11515) </li>
+<li> Leung, H.-H. et al. (2026): The JWST EXCELS survey: The ages and abundances of $3 < z < 5$ massive quiescent galaxies show that downsizing was already in place by $z\simeq4$ (submitted, MNRAS, arxiv:2602.05934) </li>
+<li> Pérez-González, P. G., et al. (2026): Little Red Dots: one observational tag, diverse spectroscopic flavors with distinct stellar and nuclear activity features (submitted, ApJ, arxiv:2602.20247) </li>
+<li> McLeod, D. J., et al. (2026): A search for the first galaxies across > 0.6 deg2 of JWST imaging: new evidence for a rapid decline in star-formation activity at z > 12 (submitted, MNRAS, arxiv:2604.16666) </li>
+</ol>
