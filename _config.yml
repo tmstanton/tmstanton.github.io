@@ -56,10 +56,10 @@ menu:
     url:               /publications/
   - title:             CV
     url:               /cv/
-  - title:             Other stuff
-    url:               /other/  
-  - title:             Fun stuff
-    url:               /fun/ 
+ # - title:             Other stuff
+ #   url:               /other/  
+ # - title:             Fun stuff
+ #   url:               /fun/ 
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
