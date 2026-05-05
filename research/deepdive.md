@@ -18,7 +18,7 @@ The EXtragalactic Continuum and Emission Line Science survey is a *JWST* Cycle 2
     height="550px"
   />
   <figcaption class="figure-caption">
-    <strong>Figure 1.</strong> An example star-forming galaxy at <em>3 z = 5.2 </em> from the EXCELS sample. An emission-line model is shown over the spectral data. Figure taken from Stanton et al. 2026.
+    <strong>Figure 1.</strong> An example star-forming galaxy at <em> z = 5.2 </em> from the EXCELS sample. An emission-line model is shown over the spectral data. Figure taken from Stanton et al. 2026.
   </figcaption>
   </a>
 </figure>
