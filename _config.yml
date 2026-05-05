@@ -432,21 +432,21 @@ jekyll_compose:
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/chandrawebb2_ngc346_jwst_hst.jpg
+        path: assets/img/kanagawa.jpg
     posts:
       layout: post
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/chandrawebb2_ngc346_jwst_hst.jpg
+        path: assets/img/kanagawa.jpg
     projects:
       layout: project
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/chandrawebb2_ngc346_jwst_hst.jpg
+        path: assets/img/kanagawa.jpg
       links:
         - title: Project Link
           url: https://example.com
