@@ -1,0 +1,25 @@
+<div class="my-sidebar-social">
+  {% if site.social.github %}
+    <a href="https://github.com/{{ site.social.github }}">
+      <img src="/assets/icons/github-142-svgrepo-com.svg" alt="GitHub" width="24" height="24">
+    </a>
+  {% endif %}
+
+  {% if site.social.email %}
+    <a href="mailto:{{ site.social.email }}" >
+      <img src="/assets/icons/messages-svgrepo-com.svg" alt="Email" width="24" height="24">
+    </a>
+  {% endif %}
+
+  {% if site.social.orcid %}
+    <a href="https://orcid.org/{{ site.social.orcid }}">
+      <img src="/assets/icons/orcid.svg" alt="ORCID" width="24" height="24">
+    </a>
+  {% endif %}
+
+  {% if site.social.linkedin %}
+    <a href="https://linkedin.com/in/{{ site.social.linkedin }}">
+      <img src="/assets/icons/linkedin-svgrepo-com.svg" alt="LinkedIn" width="24" height="24">
+    </a>
+  {% endif %}
+</div>

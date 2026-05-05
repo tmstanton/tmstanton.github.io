@@ -1,0 +1,41 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+author1:
+  name:  Thomas M. Stanton
+  # email: t.stanton@ed.ac.uk
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # about: |
+  #  <h4> I am currently a postdoctoral research associate at the Institute for Astronomy at the University of Edinburgh
+  #  working with Ross McLure. My research focusses on the chemical and nebular properties 
+  #  of star-forming galaxies in the high-redshift Universe, and the theoretical modelling of
+  #  galaxy nebular properties with photoionization modelling codes.
+  #  Prior to this position, I completed a PhD at the Institute for Astronomy, 
+  #  University of Edinburgh, under the supervision of Fergus Cullen as part of the ICE ERC/UKRI funded project. <h4>
+
+  # This photo will be used in the about section
+  # picture: ![Me](/assets/img/me.png)
+  picture: /assets/img/tms.png
+    # path: !(/assets/img/me.png)
+    # srcset:
+    #   1x: "/assets/img/tms.png"
+      # 2x: "https://via.placeholder.com/256x256"
+
+  # social:
+  #   orcid: "0000-0002-0827-9769"
+  #   github: "TMStanton"
+  #   email:  "t.stanton@ed.ac.uk"
+  #   linkedin:  "hetmstanton"
+
+# Another author (optional)
+# author2:
+#   name: "<firstname> <lastname>"
+#   email: "<mail@domain.tld>"
+#   about: |
+#     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+#   picture: "https://placehold.it/128x128"
+#   twitter: "<username>"
+#   github: "<username>"

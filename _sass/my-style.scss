@@ -1,0 +1,213 @@
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .8rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .45rem;
+    }
+  }
+
+  .btn, .gumroad-button  {
+    margin: 1rem 0;
+  }
+}
+
+.index-footer {
+ display: flex;
+  justify-content: center;
+  margin-top: 10rem;
+  padding-bottom: 1rem;
+}
+
+.my-sidebar-social a img {
+  width: 32px;
+  height: 32px;
+  transition: transform 0.2s;
+}
+
+.my-sidebar-social a img :hover {
+  transform: scale(1.15);
+}
+.my-sidebar-social a img {
+  text-decoration: none; /* remove underline */
+  position: relative;    /* reset for pseudo-elements */
+}
+
+.my-sidebar-social a::after {
+  content: none; /* remove any arrow or pseudo content */
+}
+
+.my-sidebar-social a img ,
+.my-sidebar-social a img :hover,
+.my-sidebar-social a img :focus {
+  background-image: none !important;
+  padding-right: 0 !important;
+}
+
+a {
+text-decoration: none;
+box-shadow: none;
+}
+
+a::after {
+  display: none !important;
+  content: none !important;
+}
+
+// .my-sidebar-social  a,
+// .index-footer a {
+//   text-decoration: none !important;
+//   border-bottom: none !important;
+// }
+
+// .my-sidebar-social a ::after,
+// .my-sidebar-social a ::before {
+//   content: none !important;
+// }
+
+.my-sidebar-social a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+.my-sidebar-social a::after {
+  display: none !important;
+  content: none !important;
+}
+
+.my-sidebar-social a:hover,
+.index-footer a:hover {
+  opacity: 0.75;
+}
+// :root {
+//     --sidebar-width: 15rem;
+// }
+
+// @media (min-width: 48em) {
+//   :root {
+//     --sidebar-width: 15rem;
+//   }
+
+//   main.content {
+//     margin-left: var(--sidebar-width);
+//     width: calc(100% - var(--sidebar-width));
+//   }
+// }
+//   main.content {
+//     margin-left: 15rem;      /* same as your sidebar width */
+//     width: calc(100% - 20rem);
+//   }
+  
+//   /* For cover pages */
+//   .has-cover main.content {
+//     margin-left: 15rem;
+//     width: calc(100% - 20rem);
+//   }
+
+//   .drawer,
+//   .drawer-toggle,
+//   .drawer-backdrop {
+//     display: none !important;
+//   }
+
+//   .content {
+//     margin-left: var(--sidebar-width);
+//   }
+// }
+
+// @media (min-width: 48em) {
+//    #_sidebar {
+//     width: 15rem;  /* smaller than default if needed */
+//   }
+//   .drawer-toggle,
+//   .menu-toggle,
+//   #_menu {
+//     display: none !important;
+//   }
+//   #_navbar { display: none }
+// }
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.research-card {
+  text-decoration: none;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  color: #333;
+}
+
+.research-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+.research-card img {
+  width: 85px;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.research-card h3 {
+  color: rgb(255, 123, 172);
+  margin-bottom: 0.5rem;
+}
+
+.research-card p {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+@media (min-width: 48em) {
+
+  /* Three cards per row */
+  .research-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+  }
+
+  .research-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    aspect-ratio: 4 / 5; /* nice poster-like shape */
+    padding: 1.5rem;
+  }
+
+  /* Image takes ~75% of card */
+  .research-card img {
+    flex: 0 0 75%;
+    width: 85%;
+    object-fit: contain;
+    margin-bottom: 0.75rem;
+    display: block;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  /* Title at bottom */
+  .research-card h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  /* Hide description on desktop for cleaner look */
+  .research-card p {
+    display: none;
+  }
+
+  /* Subtle image hover polish */
+  .research-card:hover img {
+    transform: scale(1.03);
+  }
+}
