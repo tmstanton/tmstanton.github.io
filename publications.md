@@ -3,16 +3,37 @@
 I have published three lead-author papers into MNRAS, and have co-authored a number of papers which can be found at <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22Stanton%2C%20Thomas%20M%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"> this ADS link</a>.
 This page is in the process of being updated and not all links will have the required data. Please contact me if you require any data from the following publications.
 
-<h2 style="color:rgb(5,135,67)">First author</h2>
+<h2 style="color:rgb(5,135,67)">First and Leading author</h2>
 
 1. **T. M. Stanton**, F. Cullen, A. C. Carnall, et al. The *JWST* EXCELS survey: *gas-phase chemical enrichment at 2 < z < 8* (2026, <a href="https://ui.adsabs.harvard.edu/abs/2026MNRAS.547ag449S/abstract"> MNRAS 547 stag449 </a>)
 
-2. **T. M. Stanton**, F. Cullen, A. C. Carnall, et al. The *JWST* EXCELS survey: *tracing the chemical enrichment pathways of high-redshift star-forming galaxies with O, Ar, and Ne abundances* (2025, <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.1735S/abstract"> MNRAS 537 1735 </a>)
+      </par>In this work, we analused a sample of 65 star-forming galaxies at 2 < z < 8, measuring the strong-line and direct method metallicities with an aim of investigating th evolution in the MZR and FMR.</par>
+      <par>Data files for the following tables are below:</par>
+      <ol>
+          <li> Table 1 (properties of the EXCELS strong line sample) </li>
+          <li> Table B1 (updated EXCELS direct-method metallicities) </li>
+      </ol>
 
-3. **T. M. Stanton**, F. Cullen, R. J. McLure, et al. The NIRVANDELS survey: *the stellar and gas-phase mass-metallicity relations of star-forming galaxies at z = 3.5* (2024, <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.3102S/abstract"> 2024, MNRAS 532 3102 </a>)
+2. S. Monty, A. L. Strom, **T. M. Stanton**, et al. *ChemZz I: comparing oxygen and iron abundance patterns in the Milky Way, the Local Group, and Cosmic Noon* (2025, <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.1443M/abstract"> MNRAS 542 1443 </a>)
 
-  <p padding-left: 10em;>In this work, we analysed a sample of 65 star-forming galaxies from the NIRVANDELS survey, calculated their oxygen and iron abundances to constrain the stellar and gas-phase MZRs, and placed a robust constraint on alpha-enhancement via the O/Fe ratio.</p>
-  <p padding-left: 15em;>Data files for the following tables are below:</p>
+                </par>An extension of the NIRVANDELS results, combining them with KBSS and Milky Way galactic archaeological data to investigate galaxy evolution by connecting the local and high-redshift Universe.</par>
+                </par>All data can be found within the paper.</par>
+
+
+3. **T. M. Stanton**, F. Cullen, A. C. Carnall, et al. The *JWST* EXCELS survey: *tracing the chemical enrichment pathways of high-redshift star-forming galaxies with O, Ar, and Ne abundances* (2025, <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.1735S/abstract"> MNRAS 537 1735 </a>)
+
+    <par>In this work, we analysed a sample of eight star-forming galaxies from the EXCELS survey, calculated their direct-method metallicities and Ne/O and Ar/O abundance patterns to investigate non-solar abundace patterns in the early universe.</par>
+      <par>Data files for the following tables are below:</par>
+      <ol padding-left: 20em;>
+          <li> <a href="data/excels-aro-sample-fluxes.dat" download> Table 1 </a> (properties of the EXCELS Ar/Ne/O sample) </li>
+          <li> <a href="data/excels-aro-sample-fluxes.dat" download> Table 3 </a> (temperatures, densities and abundance ratios) </li>
+          <li> <a href="data/excels-aro-sample-fluxes.dat" download> Emission Line Fluxes </a> (uncorrected for dust) </li>
+      </ol>
+
+4. **T. M. Stanton**, F. Cullen, R. J. McLure, et al. The NIRVANDELS survey: *the stellar and gas-phase mass-metallicity relations of star-forming galaxies at z = 3.5* (2024, <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.3102S/abstract"> 2024, MNRAS 532 3102 </a>)
+
+  <par> In this work, we analysed a sample of 65 star-forming galaxies from the NIRVANDELS survey, calculated their oxygen and iron abundances to constrain the stellar and gas-phase MZRs, and placed a robust constraint on alpha-enhancement via the O/Fe ratio.</par>
+  <par> Data files for the following tables are below:</p>
   <ol padding-left: 20em;>
       <li> <a href="data/excels-aro-sample-fluxes.dat" download> Table 2 </a> (properties of the NIRVANDELS sample) </li>
       <li> <a href="data/excels-aro-sample-fluxes.dat" download> Table 3 </a> (properties of the KMOS composites) </li>
