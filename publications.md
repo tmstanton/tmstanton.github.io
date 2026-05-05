@@ -7,7 +7,7 @@ This page is in the process of being updated and not all links will have the req
 
 1. **T. M. Stanton**, F. Cullen, A. C. Carnall, et al. The *JWST* EXCELS survey: *gas-phase chemical enrichment at 2 < z < 8* (2026, <a href="https://ui.adsabs.harvard.edu/abs/2026MNRAS.547ag449S/abstract"> MNRAS 547 stag449 </a>)
 
-      </par>In this work, we analused a sample of 65 star-forming galaxies at 2 < z < 8, measuring the strong-line and direct method metallicities with an aim of investigating th evolution in the MZR and FMR.</par>
+      <par>In this work, we analysed a sample of 65 star-forming galaxies at 2 < z < 8, measuring the strong-line and direct method metallicities with an aim of investigating th evolution in the MZR and FMR.</par>
       <par>Data files for the following tables are below:</par>
       <ol>
           <li> Table 1 (properties of the EXCELS strong line sample) </li>
