@@ -22,7 +22,7 @@ In *Cullen et al. (2021)* and *Stanton et al. (2024)*, NIRVANDELS was used to si
     height="550px"
   />
   <figcaption class="figure-caption">
-    <strong>Figure 1.</strong> *Left*: the O/Fe abundance ratios as a function of the iron abundance for the NIRVANDELS galaxies. Coloured lines represent chemical evolution models fit to the data with a variable outflow prescriptions. Figure taken from Stanton et al. 2024.
+    <strong>Figure 1.</strong> The O/Fe abundance ratios as a function of the iron abundance for the NIRVANDELS galaxies. Coloured lines represent chemical evolution models fit to the data with a variable outflow prescriptions. Figure taken from Stanton et al. 2024.
   </figcaption>
   </a>
 </figure>
