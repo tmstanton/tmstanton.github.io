@@ -9,7 +9,7 @@
   </a>
 
   <a href="/research/vandels" class="research-card">
-    <img src="/assets/img/vandels_new.png" alt="VANDELS icon">
+    <img src="/assets/img/nirvandels-data" alt="NIRVANDELS">
     <h3>(NIR)VANDELS</h3>
     <!-- <p>The NIRVANDELS/KMOS data for a galaxy at *z* &simeq 3.5 </p> -->
   </a>
