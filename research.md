@@ -1,4 +1,4 @@
-<h1 style="color:rgb(242,99,152)">Research</h1>
+<h1 style="color:rgb(5,135,67)">Research</h1>
 
 <div class="research-grid">
 
@@ -22,7 +22,7 @@
 
 </div>
 
-<!-- <h2 style="color:rgb(255, 123, 172)">JWST DeepDive</h2>
+<!-- <h2 style="color:rgb(5,135,67)">JWST DeepDive</h2>
 
 <!-- The DeepDive survey is a *JWST* Cycle 2 spectroscopic program (ID: 3567, PI: F. Valentino) targeting ten massive quiescent galaxies to obtain deep, high signal-to- noise, high-quality, medium-resolution spectroscopy between *3 < z < 4* using the NIRCam and NIRSpec instruments aboard *JWST*.  -->
 
@@ -40,7 +40,7 @@
   </a>
 </figure> --> 
 
-<!-- <h2 style="color:rgb(255, 123, 172)">JWST PRIMER</h2>
+<!-- <h2 style="color:rgb(5,135,67)">JWST PRIMER</h2>
 
 <figure class="figure"> <a href="https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.541..463H/doi:10.1093/mnras/staf971">
   <embed
@@ -55,4 +55,4 @@
   </a>
 </figure> -->
 
-<!-- <h2 style="color:rgb(255, 123, 172)">VANDELS</h2> -->
+<!-- <h2 style="color:rgb(5,135,67)">(NIR)VANDELS</h2> -->
