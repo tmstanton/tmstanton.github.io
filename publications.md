@@ -41,8 +41,8 @@ This page is in the process of being updated and not all links will have the req
 
 <h2 style="color:rgb(5,135,67)">Co-author (Published)</h2>
 <ol>
-<li> Cullen, F. et al. (2023): The ultraviolet continuum slopes $\beta$ of galaxies at z $\simeq$ 8-16 from JWST and ground-based near-infrared imaging. (MNRAS 520 14) </li>
-<li> Hamadouche, M. et al., (2023): The connection between stellar mass, age, and quenching time-scale in massive quiescent galaxies at z $\simeq$ 1. (MNRAS 521 5400) </li>
+<li> Cullen, F. et al. (2023): The ultraviolet continuum slopes *&beta* of galaxies at *z* &simeq 8-16 from JWST and ground-based near-infrared imaging. (MNRAS 520 14) </li>
+<li> Hamadouche, M. et al., (2023): The connection between stellar mass, age, and quenching time-scale in massive quiescent galaxies at *z* &simeq 1. (MNRAS 521 5400) </li>
 <li> Wofford, A. et al., (2023): Extreme broad He II emission at high and low redshifts: the dominant role of VMS in NGC 3125-A1 and CDFS131717. (MNRAS 523 3949) </li>
 <li> McLeod, D. et al., (2024): The galaxy UV luminosity function at z $\simeq$ 11 from a suite of public JWST ERS, ERO, and Cycle-1 programs. (MNRAS 527 4004) </li>
 <li> Begley, R. et al., (2024): Connecting the escape fraction of Lyman-alpha and Lyman-continuum photons in star-forming galaxies at z $\simeq$ 4-5. (MNRAS 527 4040) </li>
