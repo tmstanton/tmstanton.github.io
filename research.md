@@ -40,7 +40,7 @@
   </a>
 </figure> --> 
 
-<!-- <h2 style="color:rgb(5,135,67)">JWST PRIMER</h2>
+<!-- <h2 style="color:(5,135,67)">JWST PRIMER</h2>
 
 <figure class="figure"> <a href="https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.541..463H/doi:10.1093/mnras/staf971">
   <embed
