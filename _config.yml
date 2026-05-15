@@ -54,10 +54,10 @@ menu:
     url:               /research/
   - title:             Publications
     url:               /publications/
-  - title:             CV
-    url:               /cv/
   - title:             Talks and Presentations
     url:               /talks/
+  - title:             CV
+    url:               /cv/
  # - title:             Other stuff
  #   url:               /other/  
  # - title:             Fun stuff
