@@ -11,7 +11,7 @@
   <a href="/research/vandels" class="research-card">
     <img src="/assets/img/vandels_new.png" alt="VANDELS icon">
     <h3>(NIR)VANDELS</h3>
-    <!-- <p>The connection between size, mass, age and timescales of massive quiescent galaxies at 1 &lt; *z* &lt; 1.3. </p> -->
+    <!-- <p>The NIRVANDELS/KMOS data for a galaxy at *z* &simeq 3.5 </p> -->
   </a>
 
 </div>
