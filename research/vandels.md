@@ -1,13 +1,12 @@
 ---
 layout: page
-# title: JWST PRIMER
-# description: GSMF and size-mass evolution of star-forming and quiescent galaxies at 1 < z < 3.
+# title: (NIR)VANDELS
+# description: Rest-frame FUV-Optical spectroscopy with NIRVANDELS.
 ---
 
 <h1 style="color:rgb(5,135,67)">(NIR)VANDELS</h1>
 
-The VANDELS survey is an ESO Public Spectroscopic Survey designed to build a sample of high-signal-to-noise ratio, medium-resolution spectra of galaxies at redshifts between 1 and 6.5. The sample comprises \simeq 2000 galaxies with spectroscopic redshifts with ultra-deep (up to 80hr) rest-frame optical spectroscopy. VANDELS is described in the following survey papers: McLure et al. (2018), Pentericci et al. (2018) and Garilli et al. (2021).
-[https://www.aanda.org/articles/aa/full_html/2021/03/aa40059-20/aa40059-20.html]
+The VANDELS survey is an ESO Public Spectroscopic Survey designed to build a sample of high-signal-to-noise ratio, medium-resolution spectra of galaxies at redshifts between 1 and 6.5. The sample comprises \simeq 2000 galaxies with spectroscopic redshifts with ultra-deep (up to 80hr) rest-frame optical spectroscopy. VANDELS is described in the following survey papers: <a href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.479...25M/abstract"> McLure et al. (2018) </a>, <a href="https://ui.adsabs.harvard.edu/abs/2018A%26A...616A.174P/abstract"> Pentericci et al. (2018). </a> and <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.150G/abstract"> Garilli et al. (2021). </a>
 
 The NIRVANDELS survey is an extension to the VANDELS observations of galaxies at *z* \simeq 3.5, providing complementary rest-frame optical spectroscopy to the exisiting VANDELS rest-frame FUV spectroscopy. 
 
