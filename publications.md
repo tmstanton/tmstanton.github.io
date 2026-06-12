@@ -11,8 +11,8 @@ In this work, we analysed a sample of 65 star-forming galaxies at 2 < z < 8, mea
 Data files for the following tables are below:
 
 <ul>
-    <li> <a href="paper_data/excels-mzr-fmr.table2.dat" download> Table 2 </a> (properties of the EXCELS strong line sample) </li>
-    <li> <a href="paper_data/excels-mzr-fmr.tableA1.dat" download> Table B1 </a> (updated EXCELS direct-method metallicities) </li>
+    <li> <a href="/paper_data/excels-mzr-fmr.table2.dat" download="excels-mzr-fmr.table2.dat"> Table 2 </a> (properties of the EXCELS strong line sample) </li>
+    <li> <a href="/paper_data/excels-mzr-fmr.tableA1.dat" download="excels-mzr-fmr.tableB1.dat"> Table B1 </a> (updated EXCELS direct-method metallicities) </li>
 </ul>
 
 2. S. Monty, A. L. Strom, **T. M. Stanton**, et al. *ChemZz I: comparing oxygen and iron abundance patterns in the Milky Way, the Local Group, and Cosmic Noon* (2025, <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.1443M/abstract"> MNRAS 542 1443 </a>)
@@ -26,9 +26,9 @@ In this work, we analysed a sample of eight star-forming galaxies from the EXCEL
 Data files for the following tables are below:
 
 <ul>
-    <li> <a href="paper_data/excels-ar-ne-o.table1.dat" download> Table 1 </a> (properties of the EXCELS Ar/Ne/O sample) </li>
-    <li> <a href="paper_data/excels-ar-ne-o.table3.dat" download> Table 3 </a> (temperatures, densities and abundance ratios) </li>
-    <li> <a href="paper_data/excels-ar-ne-o.line-fluxes.dat" download> Emission Line Fluxes </a> (uncorrected for dust, units 1e-19 erg/s/cm2) </li>
+    <li> <a href="/paper_data/excels-ar-ne-o.table1.dat" download="excels-ar-ne-o.table1.dat"> Table 1 </a> (properties of the EXCELS Ar/Ne/O sample) </li>
+    <li> <a href="/paper_data/excels-ar-ne-o.table3.dat" download="excels-ar-ne-o.table3.dat"> Table 3 </a> (temperatures, densities and abundance ratios) </li>
+    <li> <a href="/paper_data/excels-ar-ne-o.line-fluxes.dat" download="excels-ar-ne-o.line-fluxes.dat"> Emission Line Fluxes </a> (uncorrected for dust, units 1e-19 erg/s/cm2) </li>
 </ul>
 
 4. **T. M. Stanton**, F. Cullen, R. J. McLure, et al. The NIRVANDELS survey: *the stellar and gas-phase mass-metallicity relations of star-forming galaxies at z = 3.5* (2024, <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.3102S/abstract"> 2024, MNRAS 532 3102 </a>)
@@ -37,9 +37,9 @@ In this work, we analysed a sample of 65 star-forming galaxies from the NIRVANDE
 Data files for the following tables are below:
 
 <ul>
-<li> <a href="paper_data/nirvandels.table2.dat" download> Table 2 </a> (properties of the NIRVANDELS sample) </li>
-<li> <a href="paper_data/nirvandels.table3.dat" download> Table 3 </a> (properties of the KMOS composites) </li>
-<li> <a href="paper_data/nirvandels.tableA1.dat" download> Table A1 </a> (alternative metallicities for the NIRVANDELS sample) </li>
+<li> <a href="/paper_data/nirvandels.table2.dat" download="nirvandels.table2.dat"> Table 2 </a> (properties of the NIRVANDELS sample) </li>
+<li> <a href="/paper_data/nirvandels.table3.dat" download="nirvandels.table3.dat"> Table 3 </a> (properties of the KMOS composites) </li>
+<li> <a href="/paper_data/nirvandels.tableA1.dat" download="nirvandels.tableA1.dat"> Table A1 </a> (alternative metallicities for the NIRVANDELS sample) </li>
 </ul>
 
 <h2 style="color:rgb(5,135,67)">Co-author (Published)</h2>
