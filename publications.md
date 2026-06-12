@@ -25,8 +25,8 @@ In this work, we analysed a sample of eight star-forming galaxies from the EXCEL
 Data files for the following tables are below:
       <ol>
           <li> <a href="paper_data/excels-ar-ne-o.table1.dat" download> Table 1 </a> (properties of the EXCELS Ar/Ne/O sample) </li>
-          <li> <a href="paper_data/excels-ar-ne-o.table1.dat" download> Table 3 </a> (temperatures, densities and abundance ratios) </li>
-          <li> <a href="paper_data/excels-aro-sample-fluxes.dat" download> Emission Line Fluxes </a> (uncorrected for dust) </li>
+          <li> <a href="paper_data/excels-ar-ne-o.table3.dat" download> Table 3 </a> (temperatures, densities and abundance ratios) </li>
+          <li> <a href="paper_data/excels-ar-ne-o.line-fluxes.dat" download> Emission Line Fluxes </a> (uncorrected for dust, units 1e-19 erg/s/cm2) </li>
       </ol>
 
 4. **T. M. Stanton**, F. Cullen, R. J. McLure, et al. The NIRVANDELS survey: *the stellar and gas-phase mass-metallicity relations of star-forming galaxies at z = 3.5* (2024, <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.3102S/abstract"> 2024, MNRAS 532 3102 </a>)
