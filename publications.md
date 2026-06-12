@@ -10,10 +10,10 @@ This page is in the process of being updated and not all links will have the req
 In this work, we analysed a sample of 65 star-forming galaxies at 2 < z < 8, measuring the strong-line and direct method metallicities with an aim of investigating th evolution in the MZR and FMR.
 Data files for the following tables are below:
 
-      <ul>
-          <li> <a href="paper_data/excels-mzr-fmr.table2.dat" download> Table 2 </a> (properties of the EXCELS strong line sample) </li>
-          <li> <a href="paper_data/excels-mzr-fmr.tableA1.dat" download> Table B1 </a> (updated EXCELS direct-method metallicities) </li>
-      </ul>
+<ul>
+    <li> <a href="paper_data/excels-mzr-fmr.table2.dat" download> Table 2 </a> (properties of the EXCELS strong line sample) </li>
+    <li> <a href="paper_data/excels-mzr-fmr.tableA1.dat" download> Table B1 </a> (updated EXCELS direct-method metallicities) </li>
+</ul>
 
 2. S. Monty, A. L. Strom, **T. M. Stanton**, et al. *ChemZz I: comparing oxygen and iron abundance patterns in the Milky Way, the Local Group, and Cosmic Noon* (2025, <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.1443M/abstract"> MNRAS 542 1443 </a>)
 
@@ -25,22 +25,22 @@ All data can be found within the paper.
 In this work, we analysed a sample of eight star-forming galaxies from the EXCELS survey, calculated their direct-method metallicities and Ne/O and Ar/O abundance patterns to investigate non-solar abundace patterns in the early universe.
 Data files for the following tables are below:
 
-      <ul>
-          <li> <a href="paper_data/excels-ar-ne-o.table1.dat" download> Table 1 </a> (properties of the EXCELS Ar/Ne/O sample) </li>
-          <li> <a href="paper_data/excels-ar-ne-o.table3.dat" download> Table 3 </a> (temperatures, densities and abundance ratios) </li>
-          <li> <a href="paper_data/excels-ar-ne-o.line-fluxes.dat" download> Emission Line Fluxes </a> (uncorrected for dust, units 1e-19 erg/s/cm2) </li>
-      </ul>
+<ul>
+    <li> <a href="paper_data/excels-ar-ne-o.table1.dat" download> Table 1 </a> (properties of the EXCELS Ar/Ne/O sample) </li>
+    <li> <a href="paper_data/excels-ar-ne-o.table3.dat" download> Table 3 </a> (temperatures, densities and abundance ratios) </li>
+    <li> <a href="paper_data/excels-ar-ne-o.line-fluxes.dat" download> Emission Line Fluxes </a> (uncorrected for dust, units 1e-19 erg/s/cm2) </li>
+</ul>
 
 4. **T. M. Stanton**, F. Cullen, R. J. McLure, et al. The NIRVANDELS survey: *the stellar and gas-phase mass-metallicity relations of star-forming galaxies at z = 3.5* (2024, <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.3102S/abstract"> 2024, MNRAS 532 3102 </a>)
 
 In this work, we analysed a sample of 65 star-forming galaxies from the NIRVANDELS survey, calculated their oxygen and iron abundances to constrain the stellar and gas-phase MZRs, and placed a robust constraint on alpha-enhancement via the O/Fe ratio.
 Data files for the following tables are below:
 
-  <ul>
-      <li> <a href="paper_data/nirvandels.table2.dat" download> Table 2 </a> (properties of the NIRVANDELS sample) </li>
-      <li> <a href="paper_data/nirvandels.table3.dat" download> Table 3 </a> (properties of the KMOS composites) </li>
-      <li> <a href="paper_data/nirvandels.tableA1.dat" download> Table A1 </a> (alternative metallicities for the NIRVANDELS sample) </li>
-  </ul>
+<ul>
+<li> <a href="paper_data/nirvandels.table2.dat" download> Table 2 </a> (properties of the NIRVANDELS sample) </li>
+<li> <a href="paper_data/nirvandels.table3.dat" download> Table 3 </a> (properties of the KMOS composites) </li>
+<li> <a href="paper_data/nirvandels.tableA1.dat" download> Table A1 </a> (alternative metallicities for the NIRVANDELS sample) </li>
+</ul>
 
 <h2 style="color:rgb(5,135,67)">Co-author (Published)</h2>
 <ol>
