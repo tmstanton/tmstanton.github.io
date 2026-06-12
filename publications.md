@@ -12,7 +12,7 @@ Data files for the following tables are below:
 
 <ul>
     <li> <a href="{{ '/paper_data/excels-mzr-fmr.table2.dat' | relative_url }}" download> Table 2 </a> (properties of the EXCELS strong-line sample) </li>
-    <li> <a href="{{ '/paper_data/excels-mzr-fmr.tableA1.dat' | relative_url }}" download> Table A1 </a> (updated EXCELS direct-method metallicities) </li>
+    <li> <a href="{{ '/paper_data/excels-mzr-fmr.tableA1.dat' | relative_url }}" download> Table B1 </a> (updated EXCELS direct-method metallicities) </li>
 </ul>
 
 2. S. Monty, A. L. Strom, **T. M. Stanton**, et al. *ChemZz I: comparing oxygen and iron abundance patterns in the Milky Way, the Local Group, and Cosmic Noon* (2025, <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.1443M/abstract"> MNRAS 542 1443 </a>)
