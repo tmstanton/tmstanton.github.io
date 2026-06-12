@@ -10,8 +10,8 @@ This page is in the process of being updated and not all links will have the req
 In this work, we analysed a sample of 65 star-forming galaxies at 2 < z < 8, measuring the strong-line and direct method metallicities with an aim of investigating th evolution in the MZR and FMR.
 Data files for the following tables are below:
       <ol>
-          <li> Table 2 (properties of the EXCELS strong line sample) </li>
-          <li> Table B1 (updated EXCELS direct-method metallicities) </li>
+          <li> <a href="data/excels-mzr-fmr.table2.dat" download> Table 2 </a> (properties of the EXCELS strong line sample) </li>
+          <li> <a href="data/excels-mzr-fmr.tableA1.dat" download> Table B1 </a> (updated EXCELS direct-method metallicities) </li>
       </ol>
 
 2. S. Monty, A. L. Strom, **T. M. Stanton**, et al. *ChemZz I: comparing oxygen and iron abundance patterns in the Milky Way, the Local Group, and Cosmic Noon* (2025, <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.1443M/abstract"> MNRAS 542 1443 </a>)
