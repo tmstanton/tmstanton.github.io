@@ -11,7 +11,7 @@ In this work, we analysed a sample of 65 star-forming galaxies at 2 < z < 8, mea
 Data files for the following tables are below:
 
 <ul>
-    <li> <a href="/paper_data/excels-mzr-fmr.table2.dat" download="excels-mzr-fmr.table2.dat"> Table 2 </a> (properties of the EXCELS strong line sample) </li>
+    <li> <a href="{{ '/paper_data/excels-mzr-fmr.table2.dat' | relative_url }}" download> Table 2 </a> </li>
     <li> <a href="/paper_data/excels-mzr-fmr.tableA1.dat" download="excels-mzr-fmr.tableB1.dat"> Table B1 </a> (updated EXCELS direct-method metallicities) </li>
 </ul>
 
