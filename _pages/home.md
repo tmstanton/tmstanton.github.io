@@ -7,28 +7,7 @@ permalink: /
 <h1 class="home-hero">{{ site.name }}</h1>
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
-<div class="chip-container" markdown="0">
-<a href="{{ '/research' | relative_url }}" class="chip">Quantum Electrodynamics</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Path Integrals</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Superfluidity</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Parton Model</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Quantum Computing</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Nanotechnology</a>
-</div>
-
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-
-<div class="callout callout-success" markdown="0">
-<div class="callout-title">{% include icon.html name="award" class="callout-icon" %} Nobel Prize in Physics, 1965</div>
-<p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
-</div>
-
-<div class="banner-frame" markdown="0">
-<img src="{{ '/images/banner.webp' | relative_url }}" alt="Feynman diagrams" width="1400" height="449" loading="lazy">
-<div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
-</div>
+I am an astronomer working on the chemical, nebular and stellar properties of galaxies in the local and early Universe, aiming to answer key questions about the evolution of galaxies across cosmic time.
 
 {% capture selected %}{% bibliography --query @*[selected=true] %}{% endcapture %}
 {% if selected contains "pub-entry" %}
@@ -42,7 +21,7 @@ Research in theoretical physics helps us to make predictions about how the unive
 
 ## About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I was raised in Wiltshire in South West England. I moved to Edinburgh for my undergraduate degree in 2016, and stayed for another ten years thanks to some combination of the beauty of Edinburgh, my Scottish ancestry, and my aversion to hot weather.
+My research primarily focuses on chemical abundance studies in the stellar and gas-phases across cosmic time.
+I love to present my research to all types of audiences, and have been fortunate enough to travel the world sharing my science.
+When not researching, I can be found with my nose in a fantasy novel, glued to the Playstation, baking, at the bouldering wall or out on a hike.

@@ -6,6 +6,8 @@ permalink: /talks/
 
 # Talks
 
+I enjoy speaking to specialist and non-specialist audiences about my research! 
+
 {% assign invited = site.data.talks | where: "type", "invited" %}
 {% assign contributed = site.data.talks | where_exp: "t", "t.type != 'invited'" %}
 

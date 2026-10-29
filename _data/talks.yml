@@ -1,59 +1,167 @@
-# Talks, shown on the Talks page in the order listed (newest first is conventional).
-# Each entry needs: title, event, year
-# Optional: location, date (free text, e.g. "11 December"), type (invited or contributed;
-#           anything other than invited is listed as contributed), url, slides, video
-
-- title: Personal observations on the reliability of the Shuttle
-  event: Rogers Commission
-  location: Washington, D.C.
-  year: 1986
+- title: "Understanding the Chemical Enrichment of the Early Universe"
+  event: "University of Bath Astrophysics Seminars"
+  location: "Bath, UK"
+  year: 2027
+  date: Feb
   type: invited
 
-- title: Simulating physics with computers
-  event: MIT Conference on Physics and Computation
-  year: 1981
-  type: invited
-  slides: https://example.com/slides
-
-- title: Difficulties in applying the variational principle to quantum field theories
-  event: Workshop on Variational Calculations in Quantum Field Theory
-  location: Wangerooge
-  year: 1987
-
-- title: Los Alamos from below
-  event: APS Annual Meeting
-  location: Santa Barbara
-  year: 1975
-  video: https://example.com/video
-
-- title: The parton model
-  event: Third International Conference on High Energy Collisions
-  location: Stony Brook
-  year: 1970
-
-- title: The development of the space-time view of quantum electrodynamics
-  event: Nobel Lecture
-  location: Stockholm
-  year: 1965
-  date: 11 December
-  type: invited
-  url: https://www.nobelprize.org/prizes/physics/1965/feynman/lecture/
-
-- title: The relation of mathematics to physics
-  event: Cornell Messenger Lectures
-  year: 1964
-
-- title: There's plenty of room at the bottom
-  event: Annual Meeting of the American Physical Society
-  location: Caltech
-  year: 1959
+- title: "Understanding the Chemical Enrichment of the Early Universe"
+  event: "University of Hertfordshire Centre for Astrophysics Seminars"
+  location: "Hertfordshire, UK"
+  year: 2027
+  date: Feb
   type: invited
 
-- title: The universal Fermi interaction
-  event: Rochester Conference on High Energy Physics
-  year: 1957
+- title: "Understanding the Chemical Enrichment of the Early Universe"
+  event: "Revealing Galaxies’ Chemical Evolution with JWST: From the Milky Way to Distant Galaxies"
+  location: "Royal Astronomical Society, London, UK"
+  year: 2026
+  date: Dec
+  type: invited
 
-- title: Atomic theory of liquid helium
-  event: International Conference on Theoretical Physics
-  location: Tokyo
-  year: 1953
+- title: "Understanding the Chemical Enrichment of the Early Universe"
+  event: "University of Stockholm Department of Astrophysics Seminars"
+  location: "Stockholm, SE"
+  year: 2026
+  date: May
+  type: invited
+
+- title: "Understanding the Chemical Enrichment of the Early Universe"
+  event: "Miracles of the Early Universe II"
+  location: "Geneva, CH"
+  year: 2026
+  date: Dec
+  type: invited
+
+- title: "Understanding the Chemical Enrichment of the Early Universe"
+  event: "University of Massachusetts (UMass) FCAD Astronomy Seminar "
+  location: "Amherst, MA, USA"
+  year: 2026
+  date: May
+  type: invited
+
+- title: "Understanding the Chemical Enrichment of the Early Universe"
+  event: "Johns Hopkins University and Space Telescope Science Institute Galaxies and AGN Seminar and Journal Club"
+  location: "STScI, Baltimore, MD, USA"
+  year: 2026
+  date: May
+  type: invited
+
+- title: "Understanding the Chemical Enrichment of the Early Universe"
+  event: "Sesto XI: The growth of galaxies in the Early Universe 2026"
+  location: "Sesto, IT"
+  year: 2026
+  date: Jan
+  type: invited
+
+- title: "JWST/EXCELS: Understanding the Chemical Enrichment of the Early Universe"
+  event: "The Metal-Poor Frontier: Understanding Low-Metallicity Stars and Galaxies Across Cosmic Time 2026"
+  location: "STScI, Baltimore, MD, USA"
+  year: 2026
+  date: May
+  type: contributed
+
+- title: "JWST/EXCELS: Understanding the Chemical Enrichment of the Early Universe"
+  event: "Science with the Hubble and James Webb Space Telescopes VIII: Enriching the Universe: From Primordial Nucleosynthesis to Exoplanet Atmospheres 2026"
+  location: "Vienna, AT"
+  year: 2026
+  date: Apr
+  type: contributed
+
+- title: "JWST/EXCELS: Understanding the Chemical Enrichment of the Early Universe"
+  event: "Towards the Full Bloom of First Star, Galaxy, and Black Hole Formation Exploration: JWST + Multi-Facility Observations and Theory for Future Programs 2026"
+  location: "Tokyo, JP"
+  year: 2026
+  date: Mar
+  type: contributed
+
+- title: "JWST/EXCELS: Understanding the Chemical Enrichment of the Early Universe"
+  event: "National Astronomy Meeting 2025"
+  location: "Durham, UK"
+  year: 2025
+  date: Jul
+  type: contributed
+
+- title: "JWST/EXCELS: Understanding the Chemical Enrichment of the Early Universe"
+  event: "European Astronomical Society Meeting 2025"
+  location: "Cork, IE"
+  year: 2025
+  date: Jun
+  type: contributed
+
+- title: "JWST/EXCELS: Understanding the Chemical Enrichment of the Early Universe"
+  event: "The Formation of the Earliest Cosmic Structures from a Joint Observational and Theoretical Perspective"
+  location: "Austin, TX, USA"
+  year: 2025
+  date: May
+  type: contributed
+
+- title: "JWST/EXCELS: Understanding the Chemical Enrichment of the Early Universe"
+  event: "Galaxy Origins in the JWST era: a 'crisol' of stars, ISM, and super massive blackholes in the City of the Three Cultures"
+  location: "Toledo, ES"
+  year: 2025
+  date: May
+  type: contributed
+
+- title: "JWST/EXCELS: Understanding the Chemical Enrichment of the Early Universe"
+  event: "First Galaxies: Building blocks of galaxies across cosmic time"
+  location: "Oxford, UK"
+  year: 2025
+  date: Apr
+  type: contributed
+
+- title: "JWST/EXCELS: Understanding the Chemical Enrichment of the Early Universe"
+  event: "Decades of EXtragalactic Workshops (DEX) XXI"
+  location: "Newcastle, UK"
+  year: 2025
+  date: Jan
+  type: contributed
+  
+- title: "Evidence and Implications of enhanced O/Fe abundance ratios in star-forming galaxies at cosmic noon"
+  event: "European Astronomical Society Meeting"
+  location: "Padova, IT"
+  year: 2024
+  date: Jun
+  type: contributed
+
+- title: "Enhanced O/Fe ratios in star-forming galaxies at cosmic noon"
+  event: "First Stars VII"
+  location: "Flatiron CCA, New York, NY, USA"
+  year: 2024
+  date: May
+  type: contributed
+
+- title: "Enhanced O/Fe ratios in star-forming galaxies at cosmic noon"
+  event: "Chemical Abundances in Gaseous Nebulae IV"
+  location: "UNIVAP, São Jose dos Campos, BR"
+  year: 2024
+  date: May
+  type: contributed
+
+- title: "Enhanced O/Fe ratios in star-forming galaxies at cosmic noon"
+  event: "Durham-Edinburgh eXtragalactic Meeting (DEX) XX 2024"
+  location: "Durham, UK"
+  year: 2024
+  date: Jan
+  type: contributed
+
+- title: "Enhanced O/Fe ratios in star-forming galaxies at cosmic noon"
+  event: "BRIDGCE Meeting 2023"
+  location: "Edinburgh, UK"
+  year: 2023
+  date: Sep
+  type: contributed
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+

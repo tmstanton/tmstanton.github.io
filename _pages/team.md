@@ -6,7 +6,6 @@ permalink: /team/
 
 # Team
 
-**We are looking for new team members!**
 
 ## PI
 
@@ -75,6 +74,3 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Administrative Support
-
-<a href="mailto:exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
