@@ -36,15 +36,15 @@ I have additionally co-authored a number of papers with my network of collaborat
 Please find any data files, set up in machine-readable format, associated with any of my published works below.
 
 - [*The JWST EXCELS survey: gas-phase chemical enrichment at 2 < z < 8*](https://ui.adsabs.harvard.edu/abs/2026MNRAS.547ag449S/abstract), Stanton et al. (2026).
-  - <a href="{{ '/paper_data/excels-mzr-fmr.table2.dat' | relative_url }}" download>Properties of the EXCELS strong-line sample (Table 2)</a> 
-  - <a href="{{ '/paper_data/excels-mzr-fmr.tableA1.dat' | relative_url }}" download>Updated EXCELS direct-method metallicities (Table A1)</a>
+  - <a href="{{ '/tables/excels-mzr-fmr.table2.dat' | relative_url }}" download>Properties of the EXCELS strong-line sample (Table 2)</a> 
+  - <a href="{{ '/tables/excels-mzr-fmr.tableA1.dat' | relative_url }}" download>Updated EXCELS direct-method metallicities (Table A1)</a>
 
 - [*The JWST EXCELS survey: tracing the chemical enrichment pathways of high-redshift star-forming galaxies with O, Ar, and Ne abundances*](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.1735S/abstract), Stanton et al. (2025).
-  - <a href="{{ '/paper_data/excels-ar-ne-o.table1.dat' | relative_url }}" download>Properties of the EXCELS Ar/Ne/O sample (Table 1)</a> 
-  - <a href="{{ '/paper_data/excels-ar-ne-o.table3.dat' | relative_url }}" download>Temperatures, densities and abundance ratios (Table 3)</a> 
-  - <a href="{{ '/paper_data/excels-ar-ne-o.line-fluxes.dat' | relative_url }}" download>Emission-line fluxes</a> (uncorrected for dust; units of 1e-19 erg/s/cm2)
+  - <a href="{{ '/tables/excels-ar-ne-o.table1.dat' | relative_url }}" download>Properties of the EXCELS Ar/Ne/O sample (Table 1)</a> 
+  - <a href="{{ '/tables/excels-ar-ne-o.table3.dat' | relative_url }}" download>Temperatures, densities and abundance ratios (Table 3)</a> 
+  - <a href="{{ '/tables/excels-ar-ne-o.line-fluxes.dat' | relative_url }}" download>Emission-line fluxes</a> (uncorrected for dust; units of 1e-19 erg/s/cm2)
 
 - [*The NIRVANDELS survey: the stellar and gas-phase mass-metallicity relations of star-forming galaxies at z = 3.5*](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.3102S/abstract), Stanton et al. (2024).
-  - <a href="{{ '/paper_data/nirvandels.table2.dat' | relative_url }}" download>Properties of the NIRVANDELS sample (Table 2)</a> 
-  - <a href="{{ '/paper_data/nirvandels.table3.dat' | relative_url }}" download>Properties of the KMOS composites (Table 3)</a> 
-  - <a href="{{ '/paper_data/nirvandels.tableA1.dat' | relative_url }}" download>Alternative metallicities for the NIRVANDELS sample (Table A1)</a> 
+  - <a href="{{ '/tables/nirvandels.table2.dat' | relative_url }}" download>Properties of the NIRVANDELS sample (Table 2)</a> 
+  - <a href="{{ '/tables/nirvandels.table3.dat' | relative_url }}" download>Properties of the KMOS composites (Table 3)</a> 
+  - <a href="{{ '/tables/nirvandels.tableA1.dat' | relative_url }}" download>Alternative metallicities for the NIRVANDELS sample (Table A1)</a> 
