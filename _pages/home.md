@@ -11,6 +11,14 @@ I am an astronomer working on the chemical, nebular and stellar properties of ga
 
 {% capture selected %}{% bibliography --query @*[selected=true] %}{% endcapture %}
 {% if selected contains "pub-entry" %}
+
+## About me
+
+I was raised in Wiltshire in South West England. I moved to Edinburgh for my undergraduate degree in 2016, and stayed for another ten years thanks to some combination of the beauty of Edinburgh, my Scottish ancestry, and my aversion to hot weather.
+My research primarily focuses on chemical abundance studies in the stellar and gas-phases across cosmic time.
+I love to present my research to all types of audiences, and have been fortunate enough to travel the world sharing my science.
+When not researching, I can be found with my nose in a fantasy novel, glued to the Playstation, baking, at the bouldering wall or out on a hike.
+
 ## Selected publications
 
 <div class="section-card selected-pubs" markdown="0">
@@ -19,9 +27,4 @@ I am an astronomer working on the chemical, nebular and stellar properties of ga
 </div>
 {% endif %}
 
-## About me
 
-I was raised in Wiltshire in South West England. I moved to Edinburgh for my undergraduate degree in 2016, and stayed for another ten years thanks to some combination of the beauty of Edinburgh, my Scottish ancestry, and my aversion to hot weather.
-My research primarily focuses on chemical abundance studies in the stellar and gas-phases across cosmic time.
-I love to present my research to all types of audiences, and have been fortunate enough to travel the world sharing my science.
-When not researching, I can be found with my nose in a fantasy novel, glued to the Playstation, baking, at the bouldering wall or out on a hike.
