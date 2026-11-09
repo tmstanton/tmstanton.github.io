@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Publications
 
-My first-author publications can be found below.
+My first-author and leading-author publications can be found below.
 
 <input type="text" class="pub-search" id="pubSearch" placeholder="Filter by title, author, or year...">
 

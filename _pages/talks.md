@@ -8,6 +8,11 @@ permalink: /talks/
 
 I enjoy speaking to specialist and non-specialist audiences about my research! 
 
+<div class="banner-frame" markdown="0">
+<img src="{{ '/images/conference-talks.jpg' | relative_url }}" alt="Me, presenting EXCELS results at the Tokyo 2026 Meeting" loading="lazy">
+<div class="banner-caption">Presenting results from the EXCELS survey at the Tokyo 2026 meeting. </div>
+</div>
+
 {% assign invited = site.data.talks | where: "type", "invited" %}
 {% assign contributed = site.data.talks | where_exp: "t", "t.type != 'invited'" %}
 
