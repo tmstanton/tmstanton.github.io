@@ -6,11 +6,12 @@ permalink: /talks/
 
 # Talks
 
-I enjoy speaking to specialist and non-specialist audiences about my research! 
+I enjoy communicating to specialist and non-specialist audiences about my research, the JWST mission and astronomy in general!
+Below I list my recent (and upcoming) invited and contributed conference presentations. 
 
 <div class="banner-frame" markdown="0">
 <img src="{{ '/images/conference-talks.jpg' | relative_url }}" alt="Me, presenting EXCELS results at the Tokyo 2026 Meeting" loading="lazy">
-<div class="banner-caption">Presenting results from the EXCELS survey at the Tokyo 2026 meeting. </div>
+<div class="banner-caption">Presenting results from the EXCELS survey at the 'Towards the Full Bloom of First Star, Galaxy, and Black Hole Formation Exploration: JWST + Multi-Facility Observations and Theory for Future Programs' meeting in Tokyo (2026). </div>
 </div>
 
 {% assign invited = site.data.talks | where: "type", "invited" %}

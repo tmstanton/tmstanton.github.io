@@ -12,6 +12,11 @@ I am an astronomer working on the chemical, nebular and stellar properties of ga
 {% capture selected %}{% bibliography --query @*[selected=true] %}{% endcapture %}
 {% if selected contains "pub-entry" %}
 
+<div class="banner-frame" markdown="0">
+<img src="{{ '/images/carina.png' | relative_url }}" alt="A JWST/NIRCam image of the cosmic cliffs, the edge of star-forming region NGC 3324 in the Carina Nebula." loading="lazy">
+<div class="banner-caption">The Cosmic Cliffs: an edge of a nearby, young, star-forming region NGC 3324 in the Carina Nebula. The image was taken with JWST NIRCam as part of the Early Release Observations. Courtest of <a href="https://science.nasa.gov/asset/webb/cosmic-cliffs-in-the-carina-nebula-nircam-image/">STScI and the ERO teams</a>. </div>
+</div>
+
 ## About me
 
 I was raised in Wiltshire in South West England. I moved to Edinburgh for my undergraduate degree in 2016, and stayed for another ten years thanks to some combination of the beauty of Edinburgh, my Scottish ancestry, and my aversion to hot weather.
