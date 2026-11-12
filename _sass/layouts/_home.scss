@@ -87,38 +87,50 @@
   }
 }
 
-
 // Talks page — side-by-side image and video
 .talks-feature-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: var(--space-5);
-  align-items: start;
+  align-items: stretch;
 
   .banner-frame {
     margin: 0;
     min-width: 0;
+    width: 100%;
+    align-self: start;
+
+    img {
+      width: 100%;
+      height: 240px;
+      object-fit: cover;
+    }
   }
 
   .talks-video {
     position: relative;
     width: 100%;
     aspect-ratio: 16 / 9;
+    overflow: hidden;
 
     iframe {
       position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
+      top: 0;
+      left: 0;
+      width: 100% !important;
+      height: 100% !important;
       border: 0;
     }
   }
 }
 
-// Stack on mobile
 @media (max-width: 700px) {
   .talks-feature-grid {
     grid-template-columns: 1fr;
+  }
+
+  .talks-feature-grid .banner-frame img {
+    height: auto;
   }
 }
 
