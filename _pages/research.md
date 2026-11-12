@@ -90,7 +90,7 @@ The cards below detail some of my publications, collaborations I have worked in,
 <h2 class="research-title">CAPERS</h2>
 <p class="research-desc">CAPERS is a collaboration, led by Mark Dickinson, which obtained PRISM spectroscopy for thousands of galaxies across multiple legacy fields. Within the CAPERS collaboration, I helped visually inspect, classify, and redshift thousands of galaxies, looking for interesting sources, AGN, and very high-redshift galaxies.
 I have contibuted to a number of CAPERS publications, including the measurement of metal content in galaxies at z~10. </p>
-<p><a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...993..224D/abstract">Donnan et al. 2026 &rarr;</a></p>
+<p><a href="Capers Metallicities: https://ui.adsabs.harvard.edu/abs/2025ApJ...993..224D/abstract">Donnan et al. 2026 &rarr;</a></p>
 </div>
 </div>
 
