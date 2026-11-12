@@ -33,7 +33,7 @@ Below I list my recent (and upcoming) invited and contributed conference present
     </div>
 
     <div class="banner-caption">
-      A recent contributed talk at the 'Understanding the Chemical Enrichment of the Early Universe' STScI Spring Symposium (2026) in Baltimore. Excerpt from 46:25–58:11.
+      A recent contributed talk at the 'Understanding the Chemical Enrichment of the Early Universe' STScI Spring Symposium (2026) in Baltimore. Excerpt from 46:25–58:11. Video courtesy of STScI.
     </div>
   </div>
 

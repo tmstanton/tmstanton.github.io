@@ -89,67 +89,72 @@
 
 
 
+
 .talks-feature-grid {
-  display: flex !important;
-  flex-direction: row !important;
-  gap: 40px;
-  column-gap: 40px !important;
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 30px !important;
   width: 100%;
-  align-items: stretch;
   margin: var(--space-8) 0;
+  align-items: stretch;
 
   > .banner-frame {
-    flex: 1 1 0 !important;
-    width: 50% !important;
-    max-width: 50% !important;
+    width: 100% !important;
+    max-width: none !important;
     min-width: 0;
+    height: 360px !important;
     margin: 0 !important;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
-    height: 340px;
+    overflow: hidden;
 
-    img {
+    > img {
       width: 100% !important;
-      max-width: 100% !important;
       height: 240px !important;
+      max-height: 240px !important;
       object-fit: cover;
-      display: block;
+      flex-shrink: 0;
     }
 
-    .banner-caption {
+    > .talks-video {
+      width: 100%;
+      height: 240px;
+      position: relative;
+      flex-shrink: 0;
+
+      iframe {
+        position: absolute;
+        inset: 0;
+        width: 100% !important;
+        height: 100% !important;
+        border: 0;
+      }
+    }
+
+    > .banner-caption {
       flex: 1;
-      display: flex;
-      align-items: center;
       box-sizing: border-box;
-    }
-  }
-
-  .talks-video {
-    position: relative;
-    width: 100%;
-    aspect-ratio: 16 / 9;
-
-    iframe {
-      position: absolute;
-      inset: 0;
-      width: 100% !important;
-      height: 100% !important;
-      border: 0;
     }
   }
 }
 
 @media (max-width: 700px) {
   .talks-feature-grid {
-    flex-direction: column !important;
+    grid-template-columns: 1fr;
+    gap: 24px !important;
 
     > .banner-frame {
-      width: 100% !important;
-      max-width: 100% !important;
+      height: auto !important;
 
-      img {
+      > img {
         height: auto !important;
+        max-height: none !important;
+      }
+
+      > .talks-video {
+        height: auto;
+        aspect-ratio: 16 / 9;
       }
     }
   }
