@@ -88,12 +88,13 @@
 }
 
 
+
 .talks-feature-grid {
   display: flex !important;
   flex-direction: row !important;
   gap: 20px;
   width: 100%;
-  align-items: flex-start;
+  align-items: stretch;
   margin: var(--space-8) 0;
 
   > .banner-frame {
@@ -103,13 +104,19 @@
     min-width: 0;
     margin: 0 !important;
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
 
     img {
       width: 100% !important;
       max-width: 100% !important;
-      height: 220px !important;
+      height: 240px !important;
       object-fit: cover;
       display: block;
+    }
+
+    .banner-caption {
+      flex-grow: 1;
     }
   }
 
@@ -142,6 +149,7 @@
     }
   }
 }
+
 
 // News timeline
 .news-timeline {
