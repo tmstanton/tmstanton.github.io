@@ -16,29 +16,40 @@ Below I list my recent (and upcoming) invited and contributed conference present
 
 
 
-<div class="talks-feature" markdown="0">
 
-    <div class="talks-feature-image">
-        <img src="{{ '/images/conference-talks.jpg' | relative_url }}"
-             alt="Me presenting EXCELS results at Tokyo 2026"
-             loading="lazy">
+<div class="talks-feature-grid" markdown="0">
 
-        <div class="banner-caption">
-            Presenting results from the EXCELS survey at the
-            'Towards the Full Bloom of First Star, Galaxy, and
-            Black Hole Formation Exploration' meeting in Tokyo (2026).
-        </div>
+  <!-- Conference image -->
+  <div class="banner-frame" markdown="0">
+    <img src="{{ '/images/conference-talks.jpg' | relative_url }}"
+         alt="Me, presenting EXCELS results at the Tokyo 2026 Meeting"
+         loading="lazy">
+
+    <div class="banner-caption">
+      Presenting results from the EXCELS survey at the
+      'Towards the Full Bloom of First Star, Galaxy, and
+      Black Hole Formation Exploration: JWST + Multi-Facility
+      Observations and Theory for Future Programs' meeting in Tokyo (2026).
+    </div>
+  </div>
+
+  <!-- Conference video -->
+  <div class="video-frame" markdown="0">
+    <div class="video-container">
+      <iframe
+        src="https://www.youtube.com/embed/1UBjutKzmrc?start=2786&end=3491"
+        title="Conference presentation"
+        allowfullscreen>
+      </iframe>
     </div>
 
-    <div class="talks-feature-video">
-        <iframe
-            src="https://www.youtube.com/embed/1UBjutKzmrc?start=2785&end=3491"
-            title="Featured conference talk"
-            allowfullscreen>
-        </iframe>
+    <div class="banner-caption">
+      Featured Talk.
     </div>
+  </div>
 
 </div>
+
 
 
 
