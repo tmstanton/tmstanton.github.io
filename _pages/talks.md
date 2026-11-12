@@ -15,58 +15,18 @@ Below I list my recent (and upcoming) invited and contributed conference present
 </div>
 
 
-<style>
-.talks-feature {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-    align-items: start;
-    margin: 25px 0 35px;
-}
 
-.talks-feature-image img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 8px;
-}
-
-.talks-feature-video {
-    width: 100%;
-    aspect-ratio: 16 / 9;
-}
-
-.talks-feature-video iframe {
-    width: 100%;
-    height: 100%;
-    border: none;
-    border-radius: 8px;
-}
-
-.talks-feature .banner-caption {
-    margin-top: 8px;
-}
-
-@media (max-width: 700px) {
-    .talks-feature {
-        grid-template-columns: 1fr;
-    }
-}
-</style>
-
-<div class="talks-feature">
+<div class="talks-feature" markdown="0">
 
     <div class="talks-feature-image">
         <img src="{{ '/images/conference-talks.jpg' | relative_url }}"
-             alt="Me, presenting EXCELS results at the Tokyo 2026 Meeting"
+             alt="Me presenting EXCELS results at Tokyo 2026"
              loading="lazy">
 
         <div class="banner-caption">
             Presenting results from the EXCELS survey at the
             'Towards the Full Bloom of First Star, Galaxy, and
-            Black Hole Formation Exploration: JWST + Multi-Facility
-            Observations and Theory for Future Programs' meeting
-            in Tokyo (2026).
+            Black Hole Formation Exploration' meeting in Tokyo (2026).
         </div>
     </div>
 
@@ -79,6 +39,7 @@ Below I list my recent (and upcoming) invited and contributed conference present
     </div>
 
 </div>
+
 
 
 {% assign invited = site.data.talks | where: "type", "invited" %}
