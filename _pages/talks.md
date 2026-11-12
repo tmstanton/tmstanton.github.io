@@ -18,32 +18,26 @@ Below I list my recent (and upcoming) invited and contributed conference present
          loading="lazy">
 
     <div class="banner-caption">
-      Presenting results from the EXCELS survey at the
-      'Towards the Full Bloom of First Star, Galaxy, and
-      Black Hole Formation Exploration: JWST + Multi-Facility
-      Observations and Theory for Future Programs' meeting in Tokyo (2026).
+      Presenting results from the EXCELS survey at the 'Towards the Full Bloom of First Star, Galaxy, and Black Hole Formation Exploration: JWST + Multi-Facility Observations and Theory for Future Programs' meeting in Tokyo (2026).
     </div>
   </div>
 
   <!-- Conference video -->
-  <div class="video-frame" markdown="0">
-    <div class="video-container">
+  <div class="banner-frame" markdown="0">
+    <div class="talks-video">
       <iframe
-        src="https://www.youtube.com/embed/1UBjutKzmrc?start=2786&end=3491"
+        src="https://www.youtube.com/embed/1UBjutKzmrc?start=2785&end=3491"
         title="Conference presentation"
         allowfullscreen>
       </iframe>
     </div>
 
     <div class="banner-caption">
-      Featured Talk.
+      Excerpt from my conference presentation (46:25–58:11).
     </div>
   </div>
 
 </div>
-
-
-
 
 {% assign invited = site.data.talks | where: "type", "invited" %}
 {% assign contributed = site.data.talks | where_exp: "t", "t.type != 'invited'" %}
